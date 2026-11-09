@@ -25,7 +25,7 @@
 
 // All open tabs — populated by fetchOpenTabs()
 let openTabs = [];
-
+let idleTabs = [];
 /**
  * fetchOpenTabs()
  *
