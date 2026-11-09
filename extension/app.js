@@ -25,7 +25,11 @@
 
 // All open tabs — populated by fetchOpenTabs()
 let openTabs = [];
+<<<<<<< Updated upstream
 let idleTabs = [];
+=======
+let privateTabs=[];
+>>>>>>> Stashed changes
 /**
  * fetchOpenTabs()
  *
